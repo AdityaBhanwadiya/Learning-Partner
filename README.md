@@ -1,46 +1,26 @@
-# Library-System
+Library-System 📚💻
+Developed by Aditya Bhanwadiya
 
-Welcome to the **Library-System** project! This is the second project developed during the Computer Science second-year course, focusing on Software Engineering and Management using C++. In this project, we aim to create management software for a library, optimizing book title searches with algorithms and data structures. Detailed reports present data structures and algorithms analysis.
+Overview
+The Library-System is a C++-based library management software designed to enhance efficiency by optimizing book searches using advanced algorithms and data structures. This project was developed as part of the Computer Science second-year Software Engineering and Management course.
 
-## Overview
+The system provides a fast and efficient way to manage book titles, leveraging optimized search techniques and well-structured data management methodologies. Additionally, detailed reports analyze the efficiency of different data structures and algorithms used in the system.
 
-The Library-System management software enhances the efficiency of a library by providing quick and efficient book title searches. It utilizes C++ to implement advanced algorithms and data structures to speed up the search process.
+Getting Started
+Prerequisites
+Before running the Library-System, ensure that your system meets the following requirements:
 
-## Getting Started
+A C++ compiler (GCC, Clang, or MSVC)
+A suitable development environment (VS Code, CLion, Code::Blocks, or Terminal-based setup)
+Make utility installed (for compiling via Makefile)
 
-To run and test the Library-System project, follow these steps:
+Technologies Used
+C++ – High-performance programming language for software development.
+Algorithm Optimization – Advanced searching techniques for efficient book retrieval.
+Data Structures – Optimized storage and retrieval mechanisms.
 
-1. Clone this repository to your local machine.
-2. Navigate to the `Library-System` directory.
-3. Use the provided Makefile to compile and execute the project:
-   - To compile and run the Library-System project, use `make run` command.
-4. Explore the functionalities and features of the Library-System software as described in the README.md file within the `Library-System` directory.
+Acknowledgments
+A special thanks to everyone who contributed, tested, and provided feedback to improve this project.
 
-Please ensure you have a C++ compiler and development environment set up on your system to use the provided Makefile.
+Let's continue building efficient and scalable library management software using C++ and advanced algorithms! 🚀
 
-## Prerequisites
-
-Ensure you have a C++ compiler and development environment set up on your system.
-
-## Technologies Used
-
-- C++ - A powerful programming language for software development.
-
-## Contributions
-
-Contributions to this project are welcome. If you have any suggestions for improvements or want to optimize the Library-System software further, feel free to submit a pull request.
-
-## License
-
-This project is under the [MIT License](https://en.wikipedia.org/wiki/MIT_License), allowing you to use, modify, and distribute the code freely.
-
-Let's build an efficient library management software using C++ and advanced algorithms! 📚📖💻
-
-![alt text](Report/img/Page1.jpg "Main page")
-![alt text](Report/img/Page2.jpg "Main page")
-![alt text](Report/img/Page3.jpg "Main page")
-![alt text](Report/img/Page4.jpg "Main page")
-![alt text](Report/img/Page5.jpg "Main page")
-![alt text](Report/img/Page6.jpg "Main page")
-![alt text](Report/img/Page7.jpg "Main page")
-![alt text](Report/img/Page8.jpg "Main page")
