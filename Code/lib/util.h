@@ -3,7 +3,7 @@
 
 /**
  * @file util.h
- * @author Francy (fa1033@live.mdx.ac.uk)
+ * @author Aditya (bhanwadiya.aditya@gmail.com)
  * @brief 
  * @version 0.1
  * @date 2021-04-28

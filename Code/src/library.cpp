@@ -1,6 +1,6 @@
 /**
  * @file library.cpp
- * @author Francy (fa1033@live.mdx.ac.uk)
+ * @author Aditya (bhanwadiya.aditya@gmail.com)
  * @brief final project of Software engineering and management
  * @version 0.1
  * @date 2021-04-16
