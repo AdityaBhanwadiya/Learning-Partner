@@ -15,9 +15,9 @@ A suitable development environment (VS Code, CLion, Code::Blocks, or Terminal-ba
 Make utility installed (for compiling via Makefile)
 
 ## Technologies Used
-C++ – High-performance programming language for software development.
-Algorithm Optimization – Advanced searching techniques for efficient book retrieval.
-Data Structures – Optimized storage and retrieval mechanisms.
+- A **C++ compiler** (GCC, Clang, or MSVC)  
+- A suitable **development environment** (VS Code, CLion, Code::Blocks, or Terminal-based setup)  
+- **Make** utility installed (for compiling via Makefile)  
 
 ## Acknowledgments
 A special thanks to everyone who contributed, tested, and provided feedback to improve this project.
