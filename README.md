@@ -7,12 +7,11 @@ The Library-System is a C++-based library management software designed to enhanc
 The system provides a fast and efficient way to manage book titles, leveraging optimized search techniques and well-structured data management methodologies. Additionally, detailed reports analyze the efficiency of different data structures and algorithms used in the system.
 
 ## Getting Started
-Prerequisites
 Before running the Library-System, ensure that your system meets the following requirements:
 
-A C++ compiler (GCC, Clang, or MSVC)
-A suitable development environment (VS Code, CLion, Code::Blocks, or Terminal-based setup)
-Make utility installed (for compiling via Makefile)
+- A C++ compiler (GCC, Clang, or MSVC)
+- A suitable development environment (VS Code, CLion, Code::Blocks, or Terminal-based setup)
+- Make utility installed (for compiling via Makefile)
 
 ## Technologies Used
 - A **C++ compiler** (GCC, Clang, or MSVC)  
